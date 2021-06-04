@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.parko.customer.reservation</groupId>
-	<artifactId>sample</artifactId>
+	<artifactId>sample1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
